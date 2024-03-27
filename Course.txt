@@ -1,4 +1,4 @@
-Python
+Python Advanced
 DBMS
 SDLC
-Linux
+Linux Advanced
