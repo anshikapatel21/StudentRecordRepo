@@ -1,0 +1,4 @@
+Python
+DBMS
+SDLC
+Linux
